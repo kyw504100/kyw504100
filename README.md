@@ -40,5 +40,5 @@ Basic SQL and Excel functions, nothing fancy.
 
 ## Social Media
 
-+ Twitter: [kyw5041000][1]
++ Twitter: [kyw5041000][1] (NSFW)
 + Discord: [kyw#4364][2]
