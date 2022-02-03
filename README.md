@@ -27,6 +27,10 @@ The textbook still teach us how to use Adobe Flash, still telling us 802.11 ***A
 ## Languages
 
 Only basic HTML(***4***) and JavaScript are included in the syllabus, so quite limited.<br>
+​ <br>
+Yup, HTML ***4***. <br>
+Do you guys still use the <​FONT​> tag? <br>
+​ <br>
 What? How about CSS?
 ### None.
 
