@@ -1,7 +1,7 @@
 [1]: https://twitter.com/kyw5041000
 [2]: https://dsc.bio/kyw
 
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **kyw504100/kyw504100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,15 +23,17 @@ Currently studying "ICT" (**I**nformation and **C**ommunication **T**echnology).
 Sounds cool right? <br>
 But I rather call it "Basic Computing" for its extremely outdated syllabus which has never been updated since 2009. <br>
 
-### Languages
+## Languages
 
-Only basic HTML and JavaScript are include in the syllabus, so quite limited.
+Only basic HTML and JavaScript are included in the syllabus, so quite limited.<br>
+What? How about CSS?
+### None.
 
-### Others
+## Others
 
 Basic SQL and Excel functions, nothing fancy.
 
-### Social Media
+## Social Media
 
 + Twitter: [kyw5041000][1]
 + Discord: [kyw#4364][2]
