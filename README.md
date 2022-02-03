@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 -->
 What are you looking for? <br>
 I'm just a ordinary Hong Kong student who preparing for 2022 HKDSE. <br>
-Currently studying "ICT" (**I**nformation and **C**ommunication **T**echnology). <br>
+Currently studying "ICT" (***I***nformation and ***C***ommunication ***T***echnology) in high school. <br>
 Sounds cool right? <br>
-But I rather call it "Basic Computing" for its extremely outdated syllabus which has never been updated since 2009. <br>
-
+But I rather call it "Basic Computing" for its extremely outdated syllabus which has never been updated since ***2009***. <br>
+The textbook still teach us how to use Adobe Flash, still telling us 802.11 ***AC*** is the latest ***upcoming*** Wi-Fi standard. <br>
+### Ridiculous.
 ## Languages
 
-Only basic HTML and JavaScript are included in the syllabus, so quite limited.<br>
+Only basic HTML(***4***) and JavaScript are included in the syllabus, so quite limited.<br>
 What? How about CSS?
 ### None.
 
