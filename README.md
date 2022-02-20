@@ -1,5 +1,6 @@
 [1]: https://twitter.com/kyw5041000
 [2]: https://dsc.bio/kyw
+[3]: https://www.hkeaa.edu.hk/en/hkdse/assessment/subject_information/category_a_subjects/hkdse_subj.html?A2&2&16
 
 # Hi there 👋
 
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 -->
 What are you looking for? <br>
 I'm just a ordinary Hong Kong student who preparing for 2022 HKDSE. <br>
-Currently studying "ICT" (***I***nformation and ***C***ommunication ***T***echnology) in high school. <br>
+Currently studying "[ICT][3]" (***I***nformation and ***C***ommunication ***T***echnology) in high school. <br>
 Sounds cool right? <br>
 But I rather call it "OTech" for its extremely outdated syllabus which has never been updated since ***2009***. <br>
 The textbook still teach us how to use Adobe Flash, still telling us 802.11 ***AC*** is the latest ***upcoming*** Wi-Fi standard. <br>
