@@ -1,7 +1,5 @@
 [1]: https://twitter.com/kyw5041000
 [2]: https://dsc.bio/kyw
-[3]: https://www.hkeaa.edu.hk/en/hkdse/assessment/subject_information/category_a_subjects/hkdse_subj.html?A2&2&16
-
 # Hi there 👋
 
 <!--
@@ -18,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm just a student who just finished his HKDSE Examination and waiting for the result release.<br>
-Now enjoying my long holidays before entering Collage/University.
+A typical Hong Kong student.<br>
+Now studying in Collage.
 ## Languages
 
 Only basic HTML(***4***) and JavaScript<br>
