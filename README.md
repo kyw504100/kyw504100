@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A typical Hong Kong student.<br>
-Now studying in College.
-## Languages
+Now studying in Universoty.
+<!--## Languages
 
 Only basic HTML(***4***) and JavaScript<br>
 ​ <br>
@@ -29,7 +29,7 @@ What? How about CSS?
 
 ## Others
 
-Basic SQL and Excel functions, nothing fancy.
+Basic SQL and Excel functions, nothing fancy.-->
 
 ## Social Media
 
