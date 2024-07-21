@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A typical Hong Kong student.<br>
-Now studying in Universoty.
+Now studying in University.
 <!--## Languages
 
 Only basic HTML(***4***) and JavaScript<br>
